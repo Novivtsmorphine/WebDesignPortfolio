@@ -1,0 +1,87 @@
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+header {
+  background-color: purple;
+  padding: 20px;
+  border-style: solid;
+  border-width: 10px 0px;
+}
+
+.logo {
+  float: left;
+  width: 20%;
+  border-style: dotted;
+  border-width: 2px 0px;
+}
+
+.logo-text {
+  background-color: teal;
+  padding: 20px;
+  color: #fff;
+  text-align: center;
+}
+
+nav {
+  float: right;
+  width: 80%;
+  text-align: right;
+}
+nav ul, nav li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+nav a {
+  display: inline-block;
+  padding: 20px 10px;
+  color: white;
+}
+
+.content {
+  padding: 20px;
+}
+.content .left-column {
+  float: left;
+  width: 20%;
+}
+.content .left-column ul, .content .left-column li, .content .left-column a {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+.content .left-column a {
+  margin-bottom: 10px;
+  background-color: #ccc;
+  padding: 10px;
+  text-decoration: none;
+}
+.content .center-column {
+  float: left;
+  width: 40%;
+  margin-left: 2%;
+}
+.content .right-column {
+  float: right;
+  width: 30%;
+}
+
+.image {
+  width: 100%;
+  height: 200px;
+  background-color: gray;
+}
+
+.images {
+  width: 40%;
+  height: 300px;
+  background-color: teal;
+  margin-left: 275px;
+}
+
+h1 {
+  margin: 0;
+}
