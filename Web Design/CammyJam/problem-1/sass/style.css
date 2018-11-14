@@ -1,6 +1,6 @@
 /*
 Error: The line was indented 2 levels deeper than the previous line.
-        on line 65 of /Users/student/Desktop/CammyJam-copy/problem-1/sass/style.sass
+        on line 65 of /Users/student/Sites/CammyJam/Web Design/CammyJam/problem-1/sass/style.sass
 
 60: 	width: 100%
 61: 	height: 200px
@@ -15,12 +15,11 @@ Error: The line was indented 2 levels deeper than the previous line.
 70: 
 
 Backtrace:
-/Users/student/Desktop/CammyJam-copy/problem-1/sass/style.sass:65
+/Users/student/Sites/CammyJam/Web Design/CammyJam/problem-1/sass/style.sass:65
 /Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.4.24/lib/sass/engine.rb:520:in `tree'
 /Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.4.24/lib/sass/engine.rb:409:in `_to_tree'
-/Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.4.24/lib/sass/engine.rb:381:in `_render_with_sourcemap'
-/Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.4.24/lib/sass/engine.rb:298:in `render_with_sourcemap'
-/Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.4.24/lib/sass/exec/sass_scss.rb:391:in `run'
+/Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.4.24/lib/sass/engine.rb:281:in `render'
+/Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.4.24/lib/sass/exec/sass_scss.rb:400:in `run'
 /Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.4.24/lib/sass/exec/sass_scss.rb:63:in `process_result'
 /Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.4.24/lib/sass/exec/base.rb:52:in `parse'
 /Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.4.24/lib/sass/exec/base.rb:19:in `parse!'
@@ -31,4 +30,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: The line was indented 2 levels deeper than the previous line.\A         on line 65 of /Users/student/Desktop/CammyJam-copy/problem-1/sass/style.sass\A \A 60: 	width: 100%\A 61: 	height: 200px\A 62: 	background-color: gray\A 63: \A 64: .images\A 65: 		width: 40%\A 66: 		height: 300px\A 67: 		background-color: teal\A 68: 		margin-left: 275px\A 69: \A 70: "; }
+  content: "Error: The line was indented 2 levels deeper than the previous line.\A         on line 65 of /Users/student/Sites/CammyJam/Web Design/CammyJam/problem-1/sass/style.sass\A \A 60: 	width: 100%\A 61: 	height: 200px\A 62: 	background-color: gray\A 63: \A 64: .images\A 65: 		width: 40%\A 66: 		height: 300px\A 67: 		background-color: teal\A 68: 		margin-left: 275px\A 69: \A 70: "; }

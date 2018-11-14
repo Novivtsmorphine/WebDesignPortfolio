@@ -13,12 +13,9 @@ header {
 
 .logo {
   float: left;
-  width: 40%;
+  width: 20%;
   border-style: dotted;
   border-width: 2px 0px;
-  margin-left: 570px;
-  
- 
 }
 
 .logo-text {
@@ -26,8 +23,6 @@ header {
   padding: 20px;
   color: #fff;
   text-align: center;
-  font-size: 100px;
-  font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
 }
 
 nav {
@@ -89,37 +84,4 @@ nav a {
 
 h1 {
   margin: 0;
-}
-.monster {
-	margin: 180px
-}
-
-@media screen{
-.dude {
-	max-height: 900px
-}
-}
-.goth {
-	max-height: 975px;
-	max-width: 600px;
-	margin-left: 250px
-}
-.sheeva {
-	margin-left: 300px
-}
-.cherries {
-}
-.me {
-	max-height: 1000px
-	 
-}
-
-.her {
-	float: right;
-	margin-right: 170px;
-	max-width: 600px
-	
-}
-.lips {
-	max-width: 550px
 }
